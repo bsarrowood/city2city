@@ -1,4 +1,4 @@
-# Created by:		Brad Arrowood
+# Created by:		reurbo
 # Created on:		2020.02.15
 # Last updated:     2020.02.17
 # Script name:		city2city.py		
