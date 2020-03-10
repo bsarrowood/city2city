@@ -2,6 +2,7 @@
 # Created on:		2020.02.15
 # Last updated:     2020.02.17
 # Script name:		city2city.py		
+# Python version:   3.7.6
 # Description:		After taking Quiz 2 of the edX "ColumbiaX: CSMM.101x Artificial Intelligence (AI)" course I wanted to
 #                   have some practice on the different search algorithms (BFS, DFS, and UCS) which were used.
 #                   Seeing as I've had much more practice working in Python and increasing the complexity of the scripts
