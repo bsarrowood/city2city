@@ -16,3 +16,5 @@ Description:		After taking Quiz 2 of the edX "ColumbiaX: CSMM.101x Artificial In
                 I try to name my variables, lists, dictionaries, etc.. with useful names, comment A LOT, and explain
                 my thought process so others looking at my code or even myself reading back over it can easily understand it.
                 As of now (2020.02.29) I've completed the BFS and DFS sections, but I'm still working on the UCS algorithm.
+
+This script was created using Notepad++.
